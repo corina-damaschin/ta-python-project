@@ -25,7 +25,7 @@ lettuce = 3
 apple = 2.5
 sauce = 0.25
 salad = reddish + lettuce + apple + sauce // 4
-print(salad+1.5)
+print(salad + 1.5)
 
 # test = int(3) + 1
 test = int('3') + z
